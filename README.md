@@ -1,4 +1,4 @@
-# -Internsavy_tic-tac--toe
+# Internsavy_tic-tac--toe
 This is a simple Tic-Tac-Toe game developed in Java, using Java Swing and JFrame for creating a Graphical User Interface (GUI).
 
 # How to Play
